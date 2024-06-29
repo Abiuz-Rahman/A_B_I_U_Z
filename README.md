@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://abiuzrahman.io)
-<h1 align="center">Hi 👋, I'm Abiuz Rahman</h1>
-<h3 align="center">A passionate Coder from Bangladesh</h3>
+<h2 align="center">Hello 👋, I'm Abiuz Rahman</h2>
+<h4 align="center">A passionate Coder from Bangladesh</h4>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiuz-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="abiuz-rahman" /> </p>
